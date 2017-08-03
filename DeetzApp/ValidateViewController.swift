@@ -19,6 +19,7 @@ class ValidateViewController: UIViewController {
     }
     
     @IBAction func resendButton(_ sender: UIButton) {
+        performSegue(withIdentifier: "test", sender: self)
     }
     
     

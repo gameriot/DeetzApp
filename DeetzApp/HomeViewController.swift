@@ -16,6 +16,8 @@ class HomeViewController: UIViewController {
         performSegue(withIdentifier: "homeToMisc", sender: self)
     }
     
+    @IBOutlet weak var cardsTable: UITableView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 

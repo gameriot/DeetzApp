@@ -16,6 +16,7 @@
 		F05BE58B1F33C4B600C3FB4D /* MiscViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05BE58A1F33C4B600C3FB4D /* MiscViewController.swift */; };
 		F05BE58D1F33C58F00C3FB4D /* down1600.png in Resources */ = {isa = PBXBuildFile; fileRef = F05BE58C1F33C58F00C3FB4D /* down1600.png */; };
 		F05BE58F1F33C74A00C3FB4D /* qr_code-blog-third.png in Resources */ = {isa = PBXBuildFile; fileRef = F05BE58E1F33C74A00C3FB4D /* qr_code-blog-third.png */; };
+		F05BE5A11F33E4DE00C3FB4D /* MenuItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05BE5A01F33E4DE00C3FB4D /* MenuItems.swift */; };
 		F093B1671F339B6C005F80CA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F093B1661F339B6C005F80CA /* AppDelegate.swift */; };
 		F093B16C1F339B6C005F80CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F093B16A1F339B6C005F80CA /* Main.storyboard */; };
 		F093B16E1F339B6C005F80CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F093B16D1F339B6C005F80CA /* Assets.xcassets */; };
@@ -53,6 +54,7 @@
 		F05BE58A1F33C4B600C3FB4D /* MiscViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MiscViewController.swift; sourceTree = "<group>"; };
 		F05BE58C1F33C58F00C3FB4D /* down1600.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = down1600.png; path = ../../Downloads/down1600.png; sourceTree = "<group>"; };
 		F05BE58E1F33C74A00C3FB4D /* qr_code-blog-third.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "qr_code-blog-third.png"; path = "../../Downloads/qr_code-blog-third.png"; sourceTree = "<group>"; };
+		F05BE5A01F33E4DE00C3FB4D /* MenuItems.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MenuItems.swift; path = DeetzApp/MenuItems.swift; sourceTree = "<group>"; };
 		F093B1631F339B6C005F80CA /* DeetzApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DeetzApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F093B1661F339B6C005F80CA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F093B16B1F339B6C005F80CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 		F093B15A1F339B6C005F80CA = {
 			isa = PBXGroup;
 			children = (
+				F05BE5A01F33E4DE00C3FB4D /* MenuItems.swift */,
 				F093B1651F339B6C005F80CA /* DeetzApp */,
 				F093B17A1F339B6C005F80CA /* DeetzAppTests */,
 				F093B1851F339B6C005F80CA /* DeetzAppUITests */,
@@ -310,6 +313,7 @@
 				F05BE5871F33AC1300C3FB4D /* ValidateViewController.swift in Sources */,
 				F05BE58B1F33C4B600C3FB4D /* MiscViewController.swift in Sources */,
 				F05BE5811F33A3C900C3FB4D /* SignUpViewController.swift in Sources */,
+				F05BE5A11F33E4DE00C3FB4D /* MenuItems.swift in Sources */,
 				F05BE57F1F33A2AE00C3FB4D /* WelcomeViewController.swift in Sources */,
 				F093B1671F339B6C005F80CA /* AppDelegate.swift in Sources */,
 			);
