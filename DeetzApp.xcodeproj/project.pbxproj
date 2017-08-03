@@ -7,13 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F05BE57F1F33A2AE00C3FB4D /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05BE57E1F33A2AE00C3FB4D /* WelcomeViewController.swift */; };
+		F05BE5811F33A3C900C3FB4D /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05BE5801F33A3C900C3FB4D /* SignUpViewController.swift */; };
+		F05BE5831F33A46800C3FB4D /* back1600.png in Resources */ = {isa = PBXBuildFile; fileRef = F05BE5821F33A46800C3FB4D /* back1600.png */; };
+		F05BE5851F33A61100C3FB4D /* phone-symbol-2.png in Resources */ = {isa = PBXBuildFile; fileRef = F05BE5841F33A61100C3FB4D /* phone-symbol-2.png */; };
+		F05BE5871F33AC1300C3FB4D /* ValidateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05BE5861F33AC1300C3FB4D /* ValidateViewController.swift */; };
+		F05BE5891F33C05B00C3FB4D /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05BE5881F33C05B00C3FB4D /* HomeViewController.swift */; };
+		F05BE58B1F33C4B600C3FB4D /* MiscViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05BE58A1F33C4B600C3FB4D /* MiscViewController.swift */; };
+		F05BE58D1F33C58F00C3FB4D /* down1600.png in Resources */ = {isa = PBXBuildFile; fileRef = F05BE58C1F33C58F00C3FB4D /* down1600.png */; };
+		F05BE58F1F33C74A00C3FB4D /* qr_code-blog-third.png in Resources */ = {isa = PBXBuildFile; fileRef = F05BE58E1F33C74A00C3FB4D /* qr_code-blog-third.png */; };
 		F093B1671F339B6C005F80CA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F093B1661F339B6C005F80CA /* AppDelegate.swift */; };
-		F093B1691F339B6C005F80CA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F093B1681F339B6C005F80CA /* ViewController.swift */; };
 		F093B16C1F339B6C005F80CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F093B16A1F339B6C005F80CA /* Main.storyboard */; };
 		F093B16E1F339B6C005F80CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F093B16D1F339B6C005F80CA /* Assets.xcassets */; };
 		F093B1711F339B6C005F80CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F093B16F1F339B6C005F80CA /* LaunchScreen.storyboard */; };
 		F093B17C1F339B6C005F80CA /* DeetzAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F093B17B1F339B6C005F80CA /* DeetzAppTests.swift */; };
 		F093B1871F339B6C005F80CA /* DeetzAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F093B1861F339B6C005F80CA /* DeetzAppUITests.swift */; };
+		F093B1961F339F4B005F80CA /* LemonMilk.otf in Resources */ = {isa = PBXBuildFile; fileRef = F093B1941F339F4B005F80CA /* LemonMilk.otf */; };
+		F093B1971F339F4B005F80CA /* LemonMilkbold.otf in Resources */ = {isa = PBXBuildFile; fileRef = F093B1951F339F4B005F80CA /* LemonMilkbold.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,9 +44,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F05BE57E1F33A2AE00C3FB4D /* WelcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
+		F05BE5801F33A3C900C3FB4D /* SignUpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		F05BE5821F33A46800C3FB4D /* back1600.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = back1600.png; path = ../../Downloads/back1600.png; sourceTree = "<group>"; };
+		F05BE5841F33A61100C3FB4D /* phone-symbol-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "phone-symbol-2.png"; path = "../../Downloads/phone-symbol-2.png"; sourceTree = "<group>"; };
+		F05BE5861F33AC1300C3FB4D /* ValidateViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ValidateViewController.swift; sourceTree = "<group>"; };
+		F05BE5881F33C05B00C3FB4D /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		F05BE58A1F33C4B600C3FB4D /* MiscViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MiscViewController.swift; sourceTree = "<group>"; };
+		F05BE58C1F33C58F00C3FB4D /* down1600.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = down1600.png; path = ../../Downloads/down1600.png; sourceTree = "<group>"; };
+		F05BE58E1F33C74A00C3FB4D /* qr_code-blog-third.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "qr_code-blog-third.png"; path = "../../Downloads/qr_code-blog-third.png"; sourceTree = "<group>"; };
 		F093B1631F339B6C005F80CA /* DeetzApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DeetzApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F093B1661F339B6C005F80CA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F093B1681F339B6C005F80CA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F093B16B1F339B6C005F80CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F093B16D1F339B6C005F80CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F093B1701F339B6C005F80CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -47,6 +65,8 @@
 		F093B1821F339B6C005F80CA /* DeetzAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DeetzAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F093B1861F339B6C005F80CA /* DeetzAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeetzAppUITests.swift; sourceTree = "<group>"; };
 		F093B1881F339B6C005F80CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F093B1941F339F4B005F80CA /* LemonMilk.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = LemonMilk.otf; path = ../../Library/Fonts/LemonMilk.otf; sourceTree = "<group>"; };
+		F093B1951F339F4B005F80CA /* LemonMilkbold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = LemonMilkbold.otf; path = ../../Library/Fonts/LemonMilkbold.otf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +101,7 @@
 				F093B17A1F339B6C005F80CA /* DeetzAppTests */,
 				F093B1851F339B6C005F80CA /* DeetzAppUITests */,
 				F093B1641F339B6C005F80CA /* Products */,
+				F093B1981F339F60005F80CA /* Resources */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,12 +118,16 @@
 		F093B1651F339B6C005F80CA /* DeetzApp */ = {
 			isa = PBXGroup;
 			children = (
+				F05BE57E1F33A2AE00C3FB4D /* WelcomeViewController.swift */,
 				F093B1661F339B6C005F80CA /* AppDelegate.swift */,
-				F093B1681F339B6C005F80CA /* ViewController.swift */,
 				F093B16A1F339B6C005F80CA /* Main.storyboard */,
 				F093B16D1F339B6C005F80CA /* Assets.xcassets */,
 				F093B16F1F339B6C005F80CA /* LaunchScreen.storyboard */,
 				F093B1721F339B6C005F80CA /* Info.plist */,
+				F05BE5801F33A3C900C3FB4D /* SignUpViewController.swift */,
+				F05BE5861F33AC1300C3FB4D /* ValidateViewController.swift */,
+				F05BE5881F33C05B00C3FB4D /* HomeViewController.swift */,
+				F05BE58A1F33C4B600C3FB4D /* MiscViewController.swift */,
 			);
 			path = DeetzApp;
 			sourceTree = "<group>";
@@ -123,6 +148,19 @@
 				F093B1881F339B6C005F80CA /* Info.plist */,
 			);
 			path = DeetzAppUITests;
+			sourceTree = "<group>";
+		};
+		F093B1981F339F60005F80CA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F093B1941F339F4B005F80CA /* LemonMilk.otf */,
+				F093B1951F339F4B005F80CA /* LemonMilkbold.otf */,
+				F05BE5821F33A46800C3FB4D /* back1600.png */,
+				F05BE5841F33A61100C3FB4D /* phone-symbol-2.png */,
+				F05BE58C1F33C58F00C3FB4D /* down1600.png */,
+				F05BE58E1F33C74A00C3FB4D /* qr_code-blog-third.png */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,8 +273,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F05BE58F1F33C74A00C3FB4D /* qr_code-blog-third.png in Resources */,
+				F093B1961F339F4B005F80CA /* LemonMilk.otf in Resources */,
+				F05BE5851F33A61100C3FB4D /* phone-symbol-2.png in Resources */,
+				F05BE5831F33A46800C3FB4D /* back1600.png in Resources */,
 				F093B1711F339B6C005F80CA /* LaunchScreen.storyboard in Resources */,
 				F093B16E1F339B6C005F80CA /* Assets.xcassets in Resources */,
+				F093B1971F339F4B005F80CA /* LemonMilkbold.otf in Resources */,
+				F05BE58D1F33C58F00C3FB4D /* down1600.png in Resources */,
 				F093B16C1F339B6C005F80CA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -262,7 +306,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F093B1691F339B6C005F80CA /* ViewController.swift in Sources */,
+				F05BE5891F33C05B00C3FB4D /* HomeViewController.swift in Sources */,
+				F05BE5871F33AC1300C3FB4D /* ValidateViewController.swift in Sources */,
+				F05BE58B1F33C4B600C3FB4D /* MiscViewController.swift in Sources */,
+				F05BE5811F33A3C900C3FB4D /* SignUpViewController.swift in Sources */,
+				F05BE57F1F33A2AE00C3FB4D /* WelcomeViewController.swift in Sources */,
 				F093B1671F339B6C005F80CA /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -516,6 +564,7 @@
 				F093B18D1F339B6C005F80CA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F093B18E1F339B6C005F80CA /* Build configuration list for PBXNativeTarget "DeetzAppTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +573,7 @@
 				F093B1901F339B6C005F80CA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F093B1911F339B6C005F80CA /* Build configuration list for PBXNativeTarget "DeetzAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +582,7 @@
 				F093B1931F339B6C005F80CA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
